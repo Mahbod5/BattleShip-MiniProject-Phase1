@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+import java.util.Vector;
 public class BattleShip {
 
     static final int GRID_SIZE = 10;
